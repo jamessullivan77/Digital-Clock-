@@ -1,0 +1,88 @@
+.sunrise {
+	background-image: url(Beautiful_Sunrise.mp4);
+	background-position: fill;
+	display: inline-block;
+	position: top;
+	float: top;
+	display: none;
+
+}
+
+#clock {
+	position: absolute;
+}
+
+
+#hours {
+	height: 200px;
+	width: 200px;
+	border: 7px solid white; 
+	color: white;
+	text-align: center;
+	background-color: black;
+	float: left;
+	margin-top: 100px;
+	margin-left: 280px; 
+	font-size: 80px;
+	padding: 10px;
+	display: inline-block;
+	font-family: 'Audiowide', cursive;
+
+
+}
+
+#minutes {
+	height: 200px;
+	width: 200px;
+	border: 7px solid white; 
+	color: white;
+	text-align: center;
+	background-color: black;
+	float: left;
+	margin-top: 100px;
+	margin-left: 10px; 
+	font-size: 80px;
+	padding: 10px;
+	display: inline-block;
+	font-family: 'Audiowide', cursive;
+	
+
+
+}
+
+#seconds {
+	height: 200px;
+	width: 200px;
+	border: 7px solid white; 
+	color: white;
+	text-align: center;
+	background-color: black;
+	float: left;
+	margin-top: 100px;
+	margin-left: 10px; 
+	font-size: 80px;
+	padding: 10px;
+	display: inline-block;
+	font-family: 'Audiowide', cursive;
+
+
+
+}
+
+
+
+/*body video {
+ 	position: fixed;
+    background: fill;*/
+
+
+    /*top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+*/
+}
+
