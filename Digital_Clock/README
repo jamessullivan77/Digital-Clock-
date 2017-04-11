@@ -2,3 +2,4 @@ Created a Digital clock using Javascript.
 Controlled by the seconds changing the minutes and minutes changing the hours. 
 12 hour clock based on EST. 
 Background changes colors every 10 seconds.
+Working AM/PM
